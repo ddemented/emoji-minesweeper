@@ -1,5 +1,7 @@
 # emoji-minesweeper [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
+[![Join the chat at https://gitter.im/ddemented/emoji-minesweeper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ddemented/emoji-minesweeper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### How to play
 
 - Left click to step on a spot
